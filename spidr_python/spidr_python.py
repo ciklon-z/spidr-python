@@ -1,7 +1,7 @@
 """
 A small sample program which shows how to use the SPIDR Python API
 
-spidr-python.py
+spidr_python.py
 
 	required arguments:
 		none
@@ -10,7 +10,7 @@ spidr-python.py
 		none
 	
 	example:
-		spidr-python.py
+		spidr_python.py
 """
 
 
